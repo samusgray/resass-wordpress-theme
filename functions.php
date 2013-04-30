@@ -96,7 +96,7 @@
 		function core_mods() {
 			if ( !is_admin() ) {
 				wp_deregister_script( 'jquery' );
-				wp_register_script( 'jquery', ( "//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" ), false);
+				wp_register_script( 'jquery', ( "//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.0/jquery.min.js" ), false);
 				wp_enqueue_script( 'jquery' );
 			}
 		}

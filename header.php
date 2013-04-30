@@ -1,10 +1,4 @@
-<?php
-/**
- * @package WordPress
- * @subpackage HTML5-Reset-Wordpress-Theme
- * @since HTML5 Reset 2.0
- */
-?><!doctype html>
+<!doctype html>
 
 <!--[if lt IE 7 ]> <html class="ie ie6 ie-lt10 ie-lt9 ie-lt8 ie-lt7 no-js" <?php language_attributes(); ?>> <![endif]-->
 <!--[if IE 7 ]>    <html class="ie ie7 ie-lt10 ie-lt9 ie-lt8 no-js" <?php language_attributes(); ?>> <![endif]-->
@@ -13,7 +7,7 @@
 <!--[if gt IE 9]><!--><html class="no-js" <?php language_attributes(); ?>><!--<![endif]-->
 <!-- the "no-js" class is for Modernizr. --> 
 
-<head id="<?php echo of_get_option('meta_headid'); ?>" data-template-set="html5-reset-wordpress-theme">
+<head id="<?php echo of_get_option('meta_headid'); ?>">
 
 	<meta charset="<?php bloginfo('charset'); ?>">
 	
@@ -63,13 +57,11 @@
 		 - Transparency is not recommended (iOS will put a black BG behind the icon) -->';
 	} ?>
 
-	<!-- concatenate and minify for production -->
-	<link rel="stylesheet" href="<?php bloginfo( 'template_directory' ); ?>/reset.css" />
+	<!-- Concatenated and minified by SASS. -->
 	<link rel="stylesheet" href="<?php bloginfo( 'template_directory' ); ?>/style.css" />
 	
-	<!-- This is an un-minified, complete version of Modernizr. 
-		 Before you move to production, you should generate a custom build that only has the detects you need. -->
-	<script src="<?php bloginfo( 'template_directory' ); ?>/_/js/modernizr-2.6.2.dev.js"></script>
+	<!-- Minified, complete version of Modernizr. -->
+	<script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"></script>
 
 	<!-- Application-specific meta tags -->
 	<?php if (true == of_get_option('meta_app_win_name')) {
@@ -96,13 +88,6 @@
 	echo '<meta property="og:image" content="'.of_get_option("meta_app_fb_image").'" />';
 	} ?>
 
-	<!-- Dublin Core Metadata : http://dublincore.org/
-	Do we need this?
-	-->
-	<!--<meta name="DC.title" content="Project Name">
-	<meta name="DC.subject" content="What you're about.">
-	<meta name="DC.creator" content="Who made this site.">-->
-
 	<link rel="profile" href="http://gmpg.org/xfn/11" />
 	<link rel="pingback" href="<?php bloginfo('pingback_url'); ?>" />
 
@@ -110,11 +95,8 @@
 
 </head>
 
-<body <?php body_class(); ?>>
+<body>
 	
-	<div id="wrapper">
-	<!-- not needed? up to you: http://camendesign.com/code/developpeurs_sans_frontieres -->
-
 		<header id="header" role="header">
 			<h1><a href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></h1>
 			<div class="description"><?php bloginfo( 'description' ); ?></div>

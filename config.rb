@@ -1,5 +1,5 @@
 
 css_dir = "/"
-sass_dir = "sass"
+sass_dir = "_/sass"
  
 output_style = :compressed

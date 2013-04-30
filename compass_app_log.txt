@@ -4,3 +4,140 @@
 2013-04-29 17:47:02 overwrite style.css 
 2013-04-29 17:47:12 overwrite style.css 
 2013-04-29 17:47:18 identical style.css 
+2013-04-29 18:06:16 identical style.css 
+2013-04-29 18:06:20 identical style.css 
+2013-04-29 18:06:49     error sass/style.scss (Line 2 of sass/_reset.scss: Invalid CSS after "* {     ": expected "{", was "@include box-si...")
+2013-04-29 18:06:49 overwrite style.css 
+2013-04-29 18:07:12     error sass/style.scss (Line 3 of sass/_reset.scss: Invalid CSS after "* {     ": expected "{", was "@include box-si...")
+2013-04-29 18:07:12 overwrite style.css 
+2013-04-29 18:07:30     error sass/style.scss (Line 2 of sass/_reset.scss: Invalid CSS after "* {     ": expected "{", was "@include box-si...")
+2013-04-29 18:07:30 overwrite style.css 
+2013-04-29 18:07:58 overwrite style.css 
+2013-04-29 18:08:30 overwrite style.css 
+2013-04-29 18:08:38 overwrite style.css 
+2013-04-29 18:08:53 overwrite style.css 
+2013-04-29 18:09:14 overwrite style.css 
+2013-04-29 18:09:23 overwrite style.css 
+2013-04-29 18:09:26 identical style.css 
+2013-04-29 18:16:30 identical style.css 
+2013-04-29 18:19:18     error sass/style.scss (Line 12: File to import not found or unreadable: vars.
+Load paths:
+  /Applications/MAMP/htdocs/wordpress/wp-content/themes/Resass/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.1.0/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.5/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.0.8/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets)
+2013-04-29 18:19:18 overwrite style.css 
+2013-04-29 18:19:32 overwrite style.css 
+2013-04-29 18:19:42 identical style.css 
+2013-04-29 18:20:12 identical style.css 
+2013-04-29 18:20:16 identical style.css 
+2013-04-29 18:20:18 identical style.css 
+2013-04-29 18:24:04 identical style.css 
+2013-04-29 18:24:18 identical style.css 
+2013-04-29 18:24:26 identical style.css 
+2013-04-29 18:24:35 identical style.css 
+2013-04-29 18:24:42 identical style.css 
+2013-04-29 18:24:53 identical style.css 
+2013-04-29 18:25:12 identical style.css 
+2013-04-29 18:25:18 identical style.css 
+2013-04-29 18:25:43 identical style.css 
+2013-04-29 18:31:43     error sass/layout.scss (Line 2: Undefined mixin 'box-sizing'.)
+2013-04-29 18:31:43    create layout.css 
+2013-04-29 18:31:43     error sass/style.scss (Line 11: File to import not found or unreadable: reset.
+Load paths:
+  /Applications/MAMP/htdocs/wordpress/wp-content/themes/Resass/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.1.0/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.5/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.0.8/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets)
+2013-04-29 18:31:43 overwrite style.css 
+2013-04-29 18:31:44     error sass/style.scss (Line 11: File to import not found or unreadable: reset.
+Load paths:
+  /Applications/MAMP/htdocs/wordpress/wp-content/themes/Resass/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.1.0/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.5/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.0.8/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets)
+2013-04-29 18:31:44 identical style.css 
+2013-04-29 18:31:48     error sass/style.scss (Line 11: File to import not found or unreadable: reset.
+Load paths:
+  /Applications/MAMP/htdocs/wordpress/wp-content/themes/Resass/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.1.0/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.5/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.0.8/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets)
+2013-04-29 18:31:48 identical style.css 
+2013-04-29 18:31:49     error sass/style.scss (Line 11: File to import not found or unreadable: reset.
+Load paths:
+  /Applications/MAMP/htdocs/wordpress/wp-content/themes/Resass/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.1.0/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.5/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.0.8/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets)
+2013-04-29 18:31:49 identical style.css 
+2013-04-29 18:32:17 overwrite style.css 
+2013-04-29 18:33:15 overwrite style.css 
+2013-04-29 18:33:24 identical style.css 
+2013-04-29 19:25:57 identical style.css 
+2013-04-29 19:26:39 overwrite style.css 
+2013-04-29 19:26:48 overwrite style.css 
+2013-04-29 19:27:02 overwrite style.css 
+2013-04-29 19:27:11     error sass/theme.scss (Line 2: Undefined variable: "$brand-color".)
+2013-04-29 19:27:11    create theme.css 
+2013-04-29 19:27:38     error sass/theme.scss (Line 2: Undefined variable: "$brand-color".)
+2013-04-29 19:27:38 overwrite theme.css 
+2013-04-29 19:27:47     error sass/theme.scss (Line 2: Undefined variable: "$brand-color".)
+2013-04-29 19:27:47 identical theme.css 
+2013-04-29 19:28:20 overwrite style.css 
+2013-04-29 19:28:32 identical style.css 
+2013-04-29 19:28:33     error sass/theme.scss (Line 2: Undefined variable: "$brand-color".)
+2013-04-29 19:28:33 identical theme.css 
+2013-04-29 19:29:10 overwrite style.css 
+2013-04-29 19:29:11     error sass/theme.scss (Line 2: Undefined variable: "$brand-color".)
+2013-04-29 19:29:11 identical theme.css 
+2013-04-29 19:30:01 overwrite style.css 
+2013-04-29 19:30:02     error sass/theme.scss (Line 2: Undefined variable: "$brand-color".)
+2013-04-29 19:30:02 identical theme.css 
+2013-04-29 19:30:20 identical style.css 
+2013-04-29 19:30:21     error sass/theme.scss (Line 2: Undefined variable: "$brand-color".)
+2013-04-29 19:30:21 identical theme.css 
+2013-04-29 21:26:43 identical style.css 
+2013-04-29 21:26:45     error sass/theme.scss (Line 1: Undefined variable: "$brand-color".)
+2013-04-29 21:26:45 overwrite theme.css 
+2013-04-29 21:26:52 identical style.css 
+2013-04-29 21:26:52     error sass/theme.scss (Line 1: Undefined variable: "$brand-color".)
+2013-04-29 21:26:52 identical theme.css 
+2013-04-29 21:27:37 identical style.css 
+2013-04-29 21:27:56 overwrite style.css 
+2013-04-29 21:28:06 overwrite style.css 

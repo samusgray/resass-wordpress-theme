@@ -1,5 +1,6 @@
 MVP:
- ☐ Sass integration
- ☐ CoffeeScript integration
- ☐ Theme Branding
- 
+ ✔ Sass integration @done (13-04-29 22:18)
+ ✔ optimize Sass directory @done (13-04-30 12:51)
+ ✔ CoffeeScript integration @done (13-04-30 12:51)
+ ✔ Theme Branding @done (13-04-30 12:54)
+ ☐ improved screenshot
